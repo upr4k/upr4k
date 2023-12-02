@@ -5,5 +5,3 @@
 
 🚀 &nbsp; I am writing Javascript.
 
-
-😎 &nbsp; I love UI/UX designing.
