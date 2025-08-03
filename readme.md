@@ -3,5 +3,4 @@
 
 💻 &nbsp; I am currently working on Full Stack Web Development.
 
-🚀 &nbsp; I am writing Javascript.
 
